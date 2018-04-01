@@ -1,7 +1,7 @@
 ## Tooless 还在进行技术测试，并无收费计划
 
 ---
-### [注册账户](https://www.tooless.org/c/user-register.htm)        [下载](https://www.tooless.org/download.htm)        [常见问题](https://bbs.tooless.org/)        [如何安装](https://bbs.tooless.org/?thread-18.htm)
+### [用户注册](https://www.tooless.org/c/user-register.htm)        [下载](https://www.tooless.org/download.htm)        [常见问题](https://bbs.tooless.org/)        [如何安装](https://bbs.tooless.org/?thread-18.htm)
 ---
 
 Tooless™ 是一种新思路下的Web定向加速技术，专注于提升设计师、工程师等技术专业人群的网站和WebApp的访问速度及工作效率工具集。
@@ -19,7 +19,6 @@ Tooless并非只连通目标网站，同时还会加快网页的打开速度，�
 
 
 Tooless 基于人工智能训练原理,持续对每一个网页的内容进行分辨，但诚然目前仍无法做到100%的“敏感”内容过滤。 
-
 希望各位能主动举报“涉政、涉黄”内容，与Tooless开发团队一起不断完善这项公益服务，使之能够长期有效服务于中国的科学与艺术进步。
 
 
