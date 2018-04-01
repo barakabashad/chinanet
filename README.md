@@ -1,8 +1,8 @@
 ## Get Tooless 
 
-    
-### [下载](https://www.tooless.org/download.htm)    [常见问题](https://bbs.tooless.org/)    [如何安装](https://bbs.tooless.org/?thread-18.htm)
-    
+---
+### [注册账户](https://www.tooless.org/c/user-register.htm)        [下载](https://www.tooless.org/download.htm)        [常见问题](https://bbs.tooless.org/)        [如何安装](https://bbs.tooless.org/?thread-18.htm)
+---
 
 Tooless™ 是一种新思路下的Web定向加速技术，专注于提升设计师、工程师等技术专业人群的网站和WebApp的访问速度及工作效率工具集。
 
