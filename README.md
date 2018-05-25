@@ -1,4 +1,5 @@
-## Tooless 还在进行技术测试，并无收费计划
+## Tooless 是一个适合IT从业者的浏览器扩展
+### 还在进行技术测试，并无收费计划
 
 ---
 ### [用户注册](https://www.tooless.org/c/user-register.htm)        [下载](https://www.tooless.org/download.htm)        [常见问题](https://bbs.tooless.org/)        [如何安装](https://bbs.tooless.org/?thread-18.htm)
