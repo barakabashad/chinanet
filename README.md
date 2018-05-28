@@ -2,7 +2,7 @@
 ### 还在进行技术测试，并无收费计划
 
 ---
-### [用户注册](https://www.tooless.org/c/user-register.htm)        [下载](https://www.tooless.org/download.htm)        [常见问题](https://bbs.tooless.org/)        [如何安装](https://bbs.tooless.org/?thread-18.htm)
+### [用户注册](https://www.tooless.org/c/user-register.htm)        [下载](https://www.tooless.org/download.htm)        [常见问题](https://github.com/toolessorg/chinanet/blob/master/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.md)       [如何安装](https://bbs.tooless.org/?thread-18.htm)
 ---
 
 Tooless™ 是一种新思路下的Web定向加速技术，专注于提升设计师、工程师等技术专业人群的网站和WebApp的访问速度及工作效率工具集。
